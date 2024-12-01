@@ -1,0 +1,13 @@
+Functions Of Operating System
+
+Memory Management
+Processor Management
+File Management
+Device Management
+I/O Management
+Secondary Storage Management
+Security
+Command Interpretation
+Networking
+Communication Management
+Job accounting

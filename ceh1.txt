@@ -57,5 +57,30 @@ Linux
 
 
 
+MotherBoard setup is BIOS setup...It's not from OS
 
+Vurtualization on from BIOS
+
+Power -- ESC (For Boot) AMD(Delete)
+Enter Setup.... (BIOS)
+Configuration of BIOS
+VT-d or Virtualization .... Enabled  SVM mode at AMD
+
+Lenovo F2
+
+Virtualization On
+Virtual Box    on (software) at time 2 OS
+Risk work done by save mode use Virtual Box
+
+https://www.virtualbox.org/wiki/Downloads
+Windows hosts
+
+
+https://www.kali.org/get-kali/#kali-installer-images
+64 bit Installer
+
+Setup Oracle Virtual Box...
+Now extract kali linux file and run
+using user kali and pass kali
+under cover mode
 

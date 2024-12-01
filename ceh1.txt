@@ -11,3 +11,51 @@ Command Interpretation
 Networking
 Communication Management
 Job accounting
+
+
+Features Of Operating System (OS)
+User
+Application
+Operating System
+Hardware
+
+Hardware --> Kernel <--OS  --> Shell --> Terminal --> User
+
+
+
+Difference Between 32-BIT AND 64-BIT OPERATING System
+------------------------------------------------------
+
+* 32 bit processor have 4 GB addressable space while 64 bit processors have 16 exabytes addressable space.
+* 32 bit systems limited to 32 GB of RAM while 64 bit systems will enable you to store up to 17 Billion GB of RAM.
+* 32 bit processors need a 32 bit operating system where as 64 bit processors can run either on 32 or 64 bit operating systems.
+* 32 bit processors is not an ideal option for stress testing and multi-tasking
+  whereas 64 bit processors are best for performing multi tasking and stress testing.
+
+
+
+Windows Vs Linux
+
+Windows
+1. Windows uses different data drives like C: D: E to stored files and folders
+2. Windows has different drive like C:D:E
+3. Hard drives, CD-ROMs, printers are considered as devices.
+4. There are 4 types os user account types 1. Administrator 2.Standard 3. Child 4. Guest
+5. Administrator user has all administrative privileges of computers.
+6. In Windows, you can not have 2 files with the same name in the same folder.
+7. In Windows, My Documents is default home directory.
+
+Linux
+1. Unix/Linux uses a tree like a hierarchical file system.
+2. There are no drives in Linux.
+3. Peripherals like hard drives, CD-ROMs, printers are also considered files in Linux/Unix
+4. There are 3 types of user account types 1. Regular 2. Root and 3. Service Account
+5. Root user is the super user adn has all administrative privileges.
+6. Linux file naming convention is case sensitive. Thus, sample and SAMPLE are 2 different files in 
+   Linux/Unix operating system.
+7. For every user/home/username directory is created which is called his home directory.
+
+
+
+
+

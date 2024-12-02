@@ -1,0 +1,50 @@
+ls - List files and directories.
+cd - Change directory.
+pwd - Print working directory.
+mkdir - Create a new directory.
+rm - Remove files and directories.
+cp - Copy files and directories.
+mv - Move or rename files and directories.
+cat - Concatenate and display file content.
+grep - Search for patterns in files.
+chmod - Change file permissions.
+chown - Change file ownership.
+chgrp - Change group ownership of files.
+sudo - Execute a command with superuser privileges.
+apt - Package manager for Debian-based distributions.
+yum - Package manager for RPM-based distributions.
+ps - Display running processes.
+kill - Terminate processes.
+top - Display system resource usage and running processes.
+df - Display disk space usage.
+du - Estimate file and directory space usage.
+man - Display the manual for a command.
+ssh - Securely connect to a remote system.
+scp - Securely copy files between systems.
+tar - Archive files and directories.
+gzip - Compress files using gzip compression.
+gunzip - Decompress files compressed with gzip.
+ping - Send ICMP echo requests to a target host.
+ifconfig - Display network interfaces and configurations.
+netstat - Display network statistics and connections.
+wget - Download files from the web.
+curl - Transfer data from or to a server.
+history - Display command history.
+find - Search for files and directories.
+locate - Find files by name.
+tar - Archive files and directories.
+tail - Display the last part of a file.
+head - Display the beginning of a file.
+sort - Sort lines of text files.
+ssh-keygen - Generate SSH key pairs.
+sed - Stream editor for text manipulation.
+awk - Text processing language.
+cut - Extract sections from lines of files.
+wc - Count lines, words, and characters in files.
+diff - Compare files line by line.
+scp - Securely copy files between systems.
+ln - Create links between files.
+alias - Create custom command aliases.
+echo - Display a line of text or variables.
+date - Display or set the system date and time.
+clear - Clear the terminal screen.

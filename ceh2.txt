@@ -30,7 +30,8 @@ sudo apt dist-upgrade  -- full update
 sudo apt-get upgrade   -- file update 
 
 
-
+searching
+Root Terminal Emulator (So now no need sudo ...)
 
 
 

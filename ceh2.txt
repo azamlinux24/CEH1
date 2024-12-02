@@ -1,3 +1,41 @@
+Terminal
+
+command 
+whoami  ---- shown current user
+date   --- current date
+
+ls --- current directory
+pwd  --- Present directory
+cd-  ----back directory
+cd ..  --- root directory HOME
+
+cd Desktop  -- go to Desktop directory
+mkdir MyDesktop  --- Make directory
+
+rmdir MSB  -- Remove MSB folder
+
+clear   --- to clear terminal
+
+echo >az.apk   -- Create New file
+rm az.apk   -- Remove file 
+
+pdw -- show where I stay now
+uptime -- how much time I spending here
+users  -- show user 
+history -- all command history...
+
+ifconfig -- show IP address
+sudo apt update  -- update kali linux
+sudo apt dist-upgrade  -- full update
+sudo apt-get upgrade   -- file update 
+
+
+
+
+
+
+
+
 ls - List files and directories.
 cd - Change directory.
 pwd - Print working directory.
